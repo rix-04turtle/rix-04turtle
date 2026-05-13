@@ -82,7 +82,9 @@
 
 <div align="center">
 
-> *"Code. Create. Learn. Repeat."* 🌸
+> *"Code. Create. Learn. Repeat. Listen to music"* 🌸
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9mbp15u9smrzmluewmvx5t9vy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
