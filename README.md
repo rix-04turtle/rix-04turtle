@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZjA0OGVtbXk3eDF5NzFrbm5qNTlidmFuZmttemlpeTc1bXk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZjA0OGVtbXk3eDF5NzFrbm5qNTlidmFuZmttemlpeTc1bXk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 
 # ✨ Hey, I'm Rishita...
 
@@ -84,7 +84,7 @@
 
 > *"Code. Create. Learn. Repeat."* 🌸
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9mbp15u9smrzmluewmvx5t9vy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9mbp15u9smrzmluewmvx5t9vy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=9mbp15u9smrzmluewmvx5t9vy&redirect=true)
 
 >*❤️"Also, don't forget to listen to music"❤️*
 
